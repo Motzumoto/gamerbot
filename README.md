@@ -9,7 +9,7 @@ GamerBot also comes with many other useful commands, such as polling and nick-na
 Invite link can be found at http://gamerbot.ga
 
 
-The code is fully public in this repository for you to see how all the commands work. GamerBot#8134 is hosted on Heroku: Cloud Application Platform and is coded 100% in Python 3.8.7.
+The code is fully public in this repository for you to see how all the commands work. GamerBot#8134 is hosted on Heroku: Cloud Application Platform and is coded 100% in Python 3.9.
 
 # Credits:
 discord.py lib: https://discordpy.readthedocs.io/en/latest/index.html
@@ -18,22 +18,5 @@ discord.py lib: https://discordpy.readthedocs.io/en/latest/index.html
 
 Python packages used: https://github.com/TanujKS/gamerbot/blob/main/requirements.txt
 
-# APIs:
-
-Hypixel API: https://api.hypixel.net/
-
-Mojang API: https://mojang.readthedocs.io/en/latest/
-
-Crafatar API: https://crafatar.com/
-
-Fortnite API: https://fortnite-api.com/
-
-Twitch API: https://dev.twitch.tv/docs/api/
-
-YouTube API: https://developers.google.com/youtube/
-
-Tracker.gg API: https://tracker.gg
-
-Google Translate API: https://pypi.org/project/googletrans/
 
 Thank you, and happy gaming :)
